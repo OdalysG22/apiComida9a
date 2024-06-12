@@ -1,0 +1,12 @@
+{
+  "name": "eat",
+  "version": "1.0.0",
+  "description": "APIRESTcomida",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Odalys Garcia",
+  "license": "ISC"
+}
